@@ -1,44 +1,33 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/orkungdk/api-gateway
-	branch = master
 [submodule "integration"]
 	path = integration
 	url = https://github.com/orkungdk/integration
-	branch = master
 [submodule "time-tracker"]
 	path = time-tracker
 	url = https://github.com/orkungdk/time-tracker
-	branch = master
 [submodule "scrumier-proxy"]
 	path = scrumier-proxy
 	url = https://github.com/orkungdk/scrumier-proxy
-	branch = master
 [submodule "commons"]
 	path = commons
 	url = https://github.com/orkungdk/commons
-	branch = master
 [submodule "config"]
 	path = config
 	url = https://github.com/orkungdk/config
-	branch = master
 [submodule "authentication"]
 	path = authentication
 	url = https://github.com/orkungdk/authentication
-	branch = master
 [submodule "scrumier-ui"]
-	path = jira-time-tracker-ui
+	path = scrumier-ui
 	url = https://github.com/orkungdk/scrumier-ui
-	branch = master
 [submodule "scrumier-version-control"]
 	path = scrumier-version-control
 	url = https://github.com/orkungdk/scrumier-version-control
-	branch = master
 [submodule "discovery-server"]
 	path = discovery-server
 	url = https://github.com/orkungdk/discovery-server
-	branch = master
 [submodule "scrumier-devops"]
-	path = discovery-server
+	path = scrumier-devops
 	url = https://github.com/orkungdk/scrumier-devops
-	branch = master
